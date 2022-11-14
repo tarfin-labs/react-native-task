@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Screen /> renders correctly 1`] = `
+<View
+  backgroundColor="#333B65"
+  padding={16}
+  style={
+    Array [
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#333B65",
+        "flexBasis": 0,
+        "flexGrow": 1,
+        "flexShrink": 1,
+        "justifyContent": "center",
+        "paddingBottom": 25.142857142857142,
+        "paddingLeft": 25.142857142857142,
+        "paddingRight": 25.142857142857142,
+        "paddingTop": 25.142857142857142,
+      },
+    ]
+  }
+>
+  <Text>
+    test
+  </Text>
+</View>
+`;

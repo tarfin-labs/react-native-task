@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "gender": 1,
+      "tc": "12345678901",
+      "dateOfBirth": "1990-01-01",
+      "phone": "5554443322",
+      "token": {
+        "value": "e7c8ff111eee3f6026d91efbdb2699661dc462e8f2a0aed7ab997e3b1f0a8066a721ae94f3a2ec411",
+        "isVerified": false
+      },
+      "isPhoneVerified": true
+    }
+  ],
+  "products": [
+    { "id": 1, "name": "iPhone 9", "category": { "id": 1, "name": "smartphones" }, "price": 549, "image": "https://via.placeholder.com/150x150.png/005566?text=iPhone+9+impedit" },
+    { "id": 2, "name": "iPhone X", "category": { "id": 2, "name": "smartphones" }, "price": 899, "image": "https://via.placeholder.com/150x150.png/00cc44?text=iPhone+X+eligendi" },
+    { "id": 3, "name": "Samsung Universe 9", "category": { "id": 3, "name": "smartphones" }, "price": 1249, "image": "https://via.placeholder.com/150x150.png/0044ee?text=Samsung+Universe+9+pariatur" },
+    { "id": 4, "name": "OPPOF19", "category": { "id": 4, "name": "smartphones" }, "price": 280, "image": "https://via.placeholder.com/150x150.png/0066aa?text=OPPOF19+autem" },
+    { "id": 5, "name": "Huawei P30", "category": { "id": 5, "name": "smartphones" }, "price": 499, "image": "https://via.placeholder.com/150x150.png/00ccbb?text=Huawei+P30+molestias" },
+    { "id": 6, "name": "MacBook Pro", "category": { "id": 6, "name": "laptops" }, "price": 1749, "image": "https://via.placeholder.com/150x150.png/0088cc?text=MacBook+Pro+est" },
+    { "id": 7, "name": "Samsung Galaxy Book", "category": { "id": 7, "name": "laptops" }, "price": 1499, "image": "https://via.placeholder.com/150x150.png/007766?text=Samsung+Galaxy+Book+ut" },
+    { "id": 8, "name": "Microsoft Surface Laptop 4", "category": { "id": 8, "name": "laptops" }, "price": 1499, "image": "https://via.placeholder.com/150x150.png/00bb00?text=Microsoft+Surface+Laptop+4+quos" },
+    { "id": 9, "name": "Infinix INBOOK", "category": { "id": 9, "name": "laptops" }, "price": 1099, "image": "https://via.placeholder.com/150x150.png/001122?text=Infinix+INBOOK+quas" },
+    { "id": 10, "name": "HP Pavilion 15-DK1056WM", "category": { "id": 10, "name": "laptops" }, "price": 1099, "image": "https://via.placeholder.com/150x150.png/008844?text=HP+Pavilion+15-DK1056WM+sit" },
+    { "id": 11, "name": "perfume Oil", "category": { "id": 11, "name": "fragrances" }, "price": 13, "image": "https://via.placeholder.com/150x150.png/00aaff?text=perfume+Oil+sunt" },
+    { "id": 12, "name": "Brown Perfume", "category": { "id": 12, "name": "fragrances" }, "price": 40, "image": "https://via.placeholder.com/150x150.png/002288?text=Brown+Perfume+aut" },
+    { "id": 13, "name": "Fog Scent Xpressio Perfume", "category": { "id": 13, "name": "fragrances" }, "price": 13, "image": "https://via.placeholder.com/150x150.png/004411?text=Fog+Scent+Xpressio+Perfume+consequuntur" },
+    { "id": 14, "name": "Non-Alcoholic Concentrated Perfume Oil", "category": { "id": 14, "name": "fragrances" }, "price": 120, "image": "https://via.placeholder.com/150x150.png/001122?text=Non-Alcoholic+Concentrated+Perfume+Oil+non" },
+    { "id": 15, "name": "Eau De Perfume Spray", "category": { "id": 15, "name": "fragrances" }, "price": 30, "image": "https://via.placeholder.com/150x150.png/005599?text=Eau+De+Perfume+Spray+perspiciatis" },
+    { "id": 16, "name": "Hyaluronic Acid Serum", "category": { "id": 16, "name": "skincare" }, "price": 19, "image": "https://via.placeholder.com/150x150.png/00ddcc?text=Hyaluronic+Acid+Serum+numquam" },
+    { "id": 17, "name": "Tree Oil 30ml", "category": { "id": 17, "name": "skincare" }, "price": 12, "image": "https://via.placeholder.com/150x150.png/00ddee?text=Tree+Oil+30ml+mollitia" },
+    { "id": 18, "name": "Oil Free Moisturizer 100ml", "category": { "id": 18, "name": "skincare" }, "price": 40, "image": "https://via.placeholder.com/150x150.png/004477?text=Oil+Free+Moisturizer+100ml+omnis" },
+    { "id": 19, "name": "Skin Beauty Serum.", "category": { "id": 19, "name": "skincare" }, "price": 46, "image": "https://via.placeholder.com/150x150.png/002255?text=Skin+Beauty+Serum.+ab" },
+    { "id": 20, "name": "Freckle Treatment Cream- 15gm", "category": { "id": 20, "name": "skincare" }, "price": 70, "image": "https://via.placeholder.com/150x150.png/006644?text=Freckle+Treatment+Cream-+15gm+magnam" },
+    { "id": 21, "name": "- Daal Masoor 500 grams", "category": { "id": 21, "name": "groceries" }, "price": 20, "image": "https://via.placeholder.com/150x150.png/00cc66?text=-+Daal+Masoor+500+grams+officiis" },
+    { "id": 22, "name": "Elbow Macaroni - 400 gm", "category": { "id": 22, "name": "groceries" }, "price": 14, "image": "https://via.placeholder.com/150x150.png/001144?text=Elbow+Macaroni+-+400+gm+qui" },
+    { "id": 23, "name": "Orange Essence Food Flavou", "category": { "id": 23, "name": "groceries" }, "price": 14, "image": "https://via.placeholder.com/150x150.png/006699?text=Orange+Essence+Food+Flavou+odio" },
+    { "id": 24, "name": "cereals muesli fruit nuts", "category": { "id": 24, "name": "groceries" }, "price": 46, "image": "https://via.placeholder.com/150x150.png/00ee88?text=cereals+muesli+fruit+nuts+aut" },
+    { "id": 25, "name": "Gulab Powder 50 Gram", "category": { "id": 25, "name": "groceries" }, "price": 70, "image": "https://via.placeholder.com/150x150.png/007700?text=Gulab+Powder+50+Gram+eius" },
+    { "id": 26, "name": "Plant Hanger For Home", "category": { "id": 26, "name": "home-decoration" }, "price": 41, "image": "https://via.placeholder.com/150x150.png/0000cc?text=Plant+Hanger+For+Home+itaque" },
+    { "id": 27, "name": "Flying Wooden Bird", "category": { "id": 27, "name": "home-decoration" }, "price": 51, "image": "https://via.placeholder.com/150x150.png/00ee44?text=Flying+Wooden+Bird+sit" },
+    { "id": 28, "name": "3D Embellishment Art Lamp", "category": { "id": 28, "name": "home-decoration" }, "price": 20, "image": "https://via.placeholder.com/150x150.png/00dd55?text=3D+Embellishment+Art+Lamp+error" },
+    { "id": 29, "name": "Handcraft Chinese style", "category": { "id": 29, "name": "home-decoration" }, "price": 60, "image": "https://via.placeholder.com/150x150.png/0044ee?text=Handcraft+Chinese+style+eveniet" },
+    { "id": 30, "name": "Key Holder", "category": { "id": 30, "name": "home-decoration" }, "price": 30, "image": "https://via.placeholder.com/150x150.png/00ccff?text=Key+Holder+sapiente" }
+  ]
+}
