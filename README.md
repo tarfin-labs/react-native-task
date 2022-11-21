@@ -57,7 +57,7 @@ $ yarn ios
   * Kullanıcı 11 haneli kimlik numarasını girerek, giriş yapabilir.
   * 11 haneli kimlik numarasını girdikte sonra, doğrulama kodu bölümü gözükmeli ve giriş işlemini tamamlayabilmek için doğrulama kodunu girmelidir. Doğrulama kodu değeri 123456 olup bunun dışında girilen tüm değerlerde giriş işlemi tamamlanmaz. 123456 dışında bir doğrulama kodu girerse hata mesajı gözükmelidir. Doğrulama kodunu 123456 girdiğinde Profile ekranı gözükmelidir.
   * `auth/login` endpoint'i kullanılmalıdır.
-  * `auth/verify` endpoint'i kullanılmalıdır (11 haneli kimlik numarasını yazdıktan sonra doğrulama kodu için gerekli). 
+  * `user/verify` endpoint'i kullanılmalıdır (11 haneli kimlik numarasını yazdıktan sonra doğrulama kodu için gerekli). 
 
   `Not:` Kullanıcı 11 haneli kimlik numarasını girdikten sonra, kullanıcıya bir `token` iletilir. Kullanıcı bu `token` değerini kullanarak doğrulama kodunu girer. Doğrulama kodunu girdikten sonra, ürünlere erişebilir. `12345678901` kimlik numarası ile giriş yapabilir, bunun dışındaki tüm değerler için 404 durumu dönecektir.
 
