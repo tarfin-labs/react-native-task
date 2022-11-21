@@ -17,12 +17,12 @@ $ cd api
 $ npm install 
 $ npm run start:prod
 ```
-Bu uygulama, yapılacak mobil uygulama için api servisi sağlamaktadır.
+Bu uygulama, yapılacak mobil uygulama için api servisi sağlamaktadır. Ana dizinde yer alan `postman.json` dosyasında tüm örnek istek kullanımları mevcuttur.
 | Endpoint                          | Method | Description                                                                                |
 |-----------------------------------|--------|--------------------------------------------------------------------------------------------|
 | http://127.0.0.1:3000/products    | GET    | Ürünleri listeler. Token gereklidir.                                                       |
 | http://127.0.0.1:3000/auth/login  | POST   | 11 haneli kimlik numarası ile giriş işlemini başlatır.                                     |
-| http://127.0.0.1:3000/auth/verify | POST   | Login işleminden sonra doğrulama kodu girilerek doğrulama işlemi yapılır. Token gereklidir. |
+| http://127.0.0.1:3000/user/verify | POST   | Login işleminden sonra doğrulama kodu girilerek doğrulama işlemi yapılır. Token gereklidir |
 | http://127.0.0.1:3000/user        | GET    | Kullanıcın bilgisini getirir. Token gereklidir.                                            |
 | http://127.0.0.1:3000/auth/logout | POST   | Giriş yapmış kullanıcıların çıkış yapmasını sağlar. Token gereklidir.                      |      
 
