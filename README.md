@@ -68,4 +68,3 @@ $ yarn ios
  ### NOTLAR
   * Kullanıcı giriş yaptıktan sonra, uygulamayı kapatıp tekrar açtığında, yeniden giriş yapmaması gerekir.
   * Redux kullanılabilir.
-  * En az 2 component için test kodu yazılmalıdır.
