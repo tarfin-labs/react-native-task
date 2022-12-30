@@ -5,7 +5,7 @@
 2. GitHub hesabındaki react-native-task reposunu açtığında en alttaki Import code düğmesini göreceksin.
 Bu özelliği kullanarak https://github.com/tarfin-labs/react-native-task adresindeki repoyu import et.
 3. Private repo'nu inceleyebilmemiz için, şu GitHub kullanıcılarını Settings->Collaborators->Manage access->Add People ile davet et:
-`frkcn`, `hozdemir`, `emreyeter`, `hsndmr`
+`frkcn`, `hozdemir`, `hsndmr`
 4. Api servisini ve uygulamayı çalıştır.
 6. Yaptığın değişikliklerin [atomik](https://en.wikipedia.org/wiki/Atomic_commit) olmasına dikkat et.
 7. En fazla 15dk'da bir `commit`'le.
