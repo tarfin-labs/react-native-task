@@ -15,7 +15,7 @@ Bu özelliği kullanarak https://github.com/tarfin-labs/react-native-task adresi
 ```bash
 $ cd api
 $ npm install 
-$ npm run start:prod
+$ npm run start:dev
 ```
 Bu uygulama, yapılacak mobil uygulama için api servisi sağlamaktadır. Ana dizinde yer alan `postman.json` dosyasında tüm örnek istek kullanımları mevcuttur.
 | Endpoint                          | Method | Description                                                                                |
